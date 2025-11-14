@@ -1,10 +1,9 @@
-# EXP-5
-EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
+## EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
-AIM
+## AIM
 . To find the Zener Break down voltage regulation condition.
 
-APPARATUS:
+## APPARATUS:
 
 S.No	Name of the Apparatus	Range	Quantity
 1	Zener Diode (IN 4735A)		1
@@ -34,10 +33,10 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 ## OBSERVATIONS:
 
-<img width="841" height="500" alt="image" src="https://github.com/user-attachments/assets/2f5e1111-d2ca-43e5-bbb5-5a0a06cb1698" />
+<img width="821" height="514" alt="image" src="https://github.com/user-attachments/assets/00461983-6bad-4f2a-adc3-eb7c3e4e4380" />
 
 
-<img width="821" height="735" alt="image" src="https://github.com/user-attachments/assets/1f6d35a0-8b2c-44fd-840b-8c816ac661ca" />
+<img width="827" height="681" alt="image" src="https://github.com/user-attachments/assets/6b9a6720-6413-48f1-a281-8a731fd26aaf" />
 
 
 <img width="809" height="483" alt="image" src="https://github.com/user-attachments/assets/b358a59d-4202-4dc1-a622-9d9895c2df55" />
@@ -46,11 +45,12 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 # Line Regulation
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2fc9cf55-3791-490d-8a71-d8bb9e6e440c" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e785ff67-c9d8-4980-822d-03b541876044" />
+
 
 # Load Regulation
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/30152030-b2bd-4c28-8832-607f70eb7ebf" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f5d65d30-6ec7-4617-a11d-5a606697aca6" />
 
 
 ## REGULATION CHARACTERISTICS:
